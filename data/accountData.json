@@ -1,0 +1,16 @@
+[
+    {
+        "firstName": "Lofi",
+        "lastName": "Dev",
+        "email": "realsaadsolutions@gmail.com",
+        "password": "YourStrongPassword123",
+        "birthday": {
+            "day": 11,
+            "month": 5,
+            "year": 1990
+        },
+        "gender": "male",
+        "profileImagePath": "data/images/Whisk_b2567c14b6.jpg",
+        "bio": "Software Developer"
+    }
+]
